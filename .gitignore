@@ -1,0 +1,19 @@
+# Roblox place/model files are built from src/ by Rojo
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+*.rbxl.lock
+*.rbxlx.lock
+
+# Rojo / Wally / tooling output
+sourcemap.json
+Packages/
+ServerPackages/
+DevPackages/
+
+# OS / OneDrive noise
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
